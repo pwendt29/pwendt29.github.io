@@ -1,0 +1,32 @@
+body{
+    box-shadow: 0 0 0 5px pink,
+                0 0 0 9px blue;
+}
+h1{
+    font-size: 2em;
+    font-family: Georgia;
+    text-align: center;
+    color: brown
+}
+
+h2{
+    font-family: Georgia;
+}
+
+h3{
+    font-family: Georgia;
+}
+
+.wrapper{
+    text-align: center;
+    background-color: darkgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.button{
+    padding-bottom: 9px;
+    padding-top: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
