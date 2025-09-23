@@ -15,7 +15,7 @@ h2{
 
 h3{
     font-family: Georgia;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .wrapper{
@@ -37,7 +37,7 @@ h3{
 }
 
 img{
-    margin: auto; 
+    text-align: center;
     border: 10px solid Lavender;
     border-radius: 40px;
 }
