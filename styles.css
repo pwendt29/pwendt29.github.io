@@ -38,3 +38,7 @@ img{
     border: 20px solid Lavender;
     border-radius: 40px;
 }
+
+.name{
+    text-align:center;
+}
